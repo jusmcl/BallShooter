@@ -1,0 +1,4 @@
+
+hsquid:UselessImportCheck	"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8Î‚çü-
+Ÿsquid:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬ÆË«8Î‚çü-
+Isquid:S1481"+Remove this unused "layout" local variable.(òÊÀ8Î‚çü-

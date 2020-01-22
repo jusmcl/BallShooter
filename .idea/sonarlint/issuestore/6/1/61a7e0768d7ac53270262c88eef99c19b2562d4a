@@ -1,0 +1,6 @@
+
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğ‚çü-
+Ÿsquid:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒĞ”ú8Ğ‚çü-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¿£•ó8Ğ‚çü-
+Osquid:S11729"1Remove this unused method parameter "difference".(ŒĞ”ú8Ğ‚çü-
