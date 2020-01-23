@@ -232,6 +232,7 @@
       <workItem from="1579690467119" duration="103000" />
       <workItem from="1579719079429" duration="2848000" />
       <workItem from="1579736198356" duration="3483000" />
+      <workItem from="1579807651833" duration="1182000" />
     </task>
     <servers />
   </component>
@@ -267,10 +268,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="473" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579736318446" />
+    <state x="489" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1579807655870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579807655870" />
     <state x="813" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579736478330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="813" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579736478330" />
+    <state x="535" y="238" key="run.anything.popup" timestamp="1579808809405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="238" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579808809405" />
     <state x="693" y="5" width="850" height="1034" key="search.everywhere.popup" timestamp="1579737568100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
